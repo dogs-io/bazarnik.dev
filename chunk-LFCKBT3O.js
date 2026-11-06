@@ -1,0 +1,1 @@
+import{Y as t,d as e}from"./chunk-RT2BL67X.js";var o=class o{constructor(){e(this,"debugMode",!1)}toggleDebug(){this.debugMode=!this.debugMode,console.log("Debug mode:",this.debugMode)}};e(o,"\u0275fac",function(i){return new(i||o)}),e(o,"\u0275prov",t({token:o,factory:o.\u0275fac,providedIn:"root"}));var d=o;export{d as a};
